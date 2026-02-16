@@ -1,0 +1,3 @@
+My name is Atheer Abdullah Alharthi.
+I hold a Bachelor's degree in Computer Science.
+I am a trainee at Tuwaiq Bootcamp for Web Application Development using Python.
